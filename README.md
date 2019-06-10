@@ -1,6 +1,6 @@
 # flutter_connectivity
 
-A new Flutter project.
+flutter 取得web api資料並以清單顯示
 
 ## Getting Started
 
